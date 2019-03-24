@@ -1,0 +1,10 @@
+body
+{
+    height: auto !important;
+    font-family: 'Maven Pro', sans-serif;
+    font-size: 36px;
+    font-weight: 300;
+    background-color:#FEFEFC;
+    /*Comment, won't appear in minified css:*/
+    color:#525252;
+}
